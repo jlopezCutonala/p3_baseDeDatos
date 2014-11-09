@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="mysqlConnect/Main.cs">
+    <Files>
+      <File FileName="mysqlConnect/Main.cs" Line="17" Column="1" />
+      <File FileName="mysqlConnect/Alumnos.cs" Line="58" Column="1" />
+      <File FileName="mysqlConnect/MySQL.cs" Line="22" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/home/jona/Dropbox/academia/2013A/Programacion III/programas/mysqlConnect/mysqlConnect/Main.cs" line="15" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
